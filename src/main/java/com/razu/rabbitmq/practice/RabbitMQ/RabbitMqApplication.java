@@ -10,7 +10,4 @@ public class RabbitMqApplication {
 		SpringApplication.run(RabbitMqApplication.class, args);
 	}
 	//hello world how are you new rever test commit is added
-
-	//second test commit is this for now
-
 }
